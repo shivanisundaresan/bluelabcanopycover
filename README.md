@@ -1,5 +1,5 @@
 # BlueLabMetro Canopy Cover Carbon Offset
-<img src="https://user-images.githubusercontent.com/113264909/232350711-e53e1769-a29a-4afc-9119-981a8ed2bd84.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/113264909/232350711-e53e1769-a29a-4afc-9119-981a8ed2bd84.png" width="400" height="300">
 
 
 ## Who Are We and What Are Our Goals:
