@@ -1,6 +1,6 @@
 # BlueLabMetro Canopy Cover Carbon Offset
 
-## Who are We and What Are Our Goals:
+## Who Are We and What Are Our Goals:
 We are a group of 6 students at the University of Michigan who are all passionate about sustainability and engineering. We belong to the club BLUElab metro which focuses on sustainability initiatives on campus. With the help of another project team, we planted about 30 trees on campus, and our goal was to dive into the effects those trees have on the carbon footprint of Ann Arbor.
 
 ## Background Information:
