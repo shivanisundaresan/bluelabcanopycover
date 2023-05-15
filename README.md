@@ -14,7 +14,7 @@ While there are a wide variety of ways to calculate the carbon offset of trees, 
 2. Carbon offset calculation: https://www.ecomatcher.com/how-to-calculate-co2-sequestration/ 
 
 
-'''python
+'''
 import pandas as pd
 
 # Load data into a pandas DataFrame
